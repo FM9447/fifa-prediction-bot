@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# World Cup RL Simulator
 
-# Run and deploy your AI Studio app
+A reinforcement learning-powered simulator for the FIFA World Cup, designed to predict match outcomes and tournament results based on historical data and tactical analysis.
 
-This contains everything you need to run your app locally.
+## Features
+- **Reinforcement Learning Engine**: Trains on historic international match data.
+- **Time Machine Mode**: Re-run past World Cups to see how the model predicts the outcomes.
+- **Advanced Oracle Mode**: Push the limits of the model with up to 10,000,000 training iterations for deep analysis.
+- **Interactive UI**: Visualize the predictions, tournament bracket, and team stats.
 
-View your app in AI Studio: https://ai.studio/apps/ee3e1baa-b296-4c84-895b-93716e5a8f3f
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
+## Getting Started
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```bash
+   npm install
+   ```
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+3. Build for production:
+   ```bash
+   npm run build
+   ```
+
+## Tech Stack
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Express (Backend RL Engine)
