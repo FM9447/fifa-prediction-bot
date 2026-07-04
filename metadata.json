@@ -1,0 +1,6 @@
+{
+  "name": "World Cup 2026 Match Predictor",
+  "description": "An interactive machine learning simulator and predictor for the FIFA World Cup 2026 knockout stages, generating perfect scorelines, scorer jersey numbers, and compliant CSV submissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

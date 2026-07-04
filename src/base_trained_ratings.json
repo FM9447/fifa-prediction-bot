@@ -1,0 +1,162 @@
+{
+  "PAR": {
+    "elo": 1776,
+    "attack": 50.099999999999994,
+    "defense": 63.44999999076711,
+    "code": "PAR",
+    "name": "Paraguay",
+    "flag": "🇵🇾"
+  },
+  "NOR": {
+    "elo": 1738,
+    "attack": 72.60000000496464,
+    "defense": 67.475000004967,
+    "code": "NOR",
+    "name": "Norway",
+    "flag": "🇳🇴"
+  },
+  "EGY": {
+    "elo": 1671,
+    "attack": 50.100000000000044,
+    "defense": 50.19999999999999,
+    "code": "EGY",
+    "name": "Egypt",
+    "flag": "🇪🇬"
+  },
+  "SUI": {
+    "elo": 1752,
+    "attack": 99.65000000000002,
+    "defense": 50.39999999998041,
+    "code": "SUI",
+    "name": "Switzerland",
+    "flag": "🇨🇭"
+  },
+  "ARG": {
+    "elo": 1910,
+    "attack": 96.15000002907966,
+    "defense": 64.82500002500724,
+    "code": "ARG",
+    "name": "Argentina",
+    "flag": "🇦🇷"
+  },
+  "BRA": {
+    "elo": 1938,
+    "attack": 96.7000000217843,
+    "defense": 64.37500002581265,
+    "code": "BRA",
+    "name": "Brazil",
+    "flag": "🇧🇷"
+  },
+  "FRA": {
+    "elo": 1948,
+    "attack": 97.75000001062932,
+    "defense": 62.674999991479396,
+    "code": "FRA",
+    "name": "France",
+    "flag": "🇫🇷"
+  },
+  "GER": {
+    "elo": 1910,
+    "attack": 99.00000000000006,
+    "defense": 63.549999995520594,
+    "code": "GER",
+    "name": "Germany",
+    "flag": "🇩🇪"
+  },
+  "ESP": {
+    "elo": 1920,
+    "attack": 94.35000001136014,
+    "defense": 65.92500001352417,
+    "code": "ESP",
+    "name": "Spain",
+    "flag": "🇪🇸"
+  },
+  "ENG": {
+    "elo": 1909,
+    "attack": 97.00000001700168,
+    "defense": 65.85000001076662,
+    "code": "ENG",
+    "name": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  "POR": {
+    "elo": 1814,
+    "attack": 92.6000000056734,
+    "defense": 67.72500000840724,
+    "code": "POR",
+    "name": "Portugal",
+    "flag": "🇵🇹"
+  },
+  "COL": {
+    "elo": 1779,
+    "attack": 70.10000000498862,
+    "defense": 67.95000001462373,
+    "code": "COL",
+    "name": "Colombia",
+    "flag": "🇨🇴"
+  },
+  "ITA": {
+    "elo": 1873,
+    "attack": 93.80000001419415,
+    "defense": 65.75000001063422,
+    "code": "ITA",
+    "name": "Italy",
+    "flag": "🇮🇹"
+  },
+  "USA": {
+    "elo": 1716,
+    "attack": 71.65000000709077,
+    "defense": 50.97499999999986,
+    "code": "USA",
+    "name": "United States",
+    "flag": "🇺🇸"
+  },
+  "MEX": {
+    "elo": 1737,
+    "attack": 75.30000001064582,
+    "defense": 65.80000001135313,
+    "code": "MEX",
+    "name": "Mexico",
+    "flag": "🇲🇽"
+  },
+  "CAN": {
+    "elo": 1583,
+    "attack": 50.00000000000006,
+    "defense": 50.05,
+    "code": "CAN",
+    "name": "Canada",
+    "flag": "🇨🇦"
+  },
+  "URU": {
+    "elo": 1746,
+    "attack": 95.30000001135116,
+    "defense": 66.60000001441865,
+    "code": "URU",
+    "name": "Uruguay",
+    "flag": "🇺🇾"
+  },
+  "BEL": {
+    "elo": 1781,
+    "attack": 99.15000000000005,
+    "defense": 63.52499999289307,
+    "code": "BEL",
+    "name": "Belgium",
+    "flag": "🇧🇪"
+  },
+  "CRO": {
+    "elo": 1772,
+    "attack": 96.55000000141659,
+    "defense": 66.27500000070705,
+    "code": "CRO",
+    "name": "Croatia",
+    "flag": "🇭🇷"
+  },
+  "MAR": {
+    "elo": 1727,
+    "attack": 69.1000000007085,
+    "defense": 70.85000000567283,
+    "code": "MAR",
+    "name": "Morocco",
+    "flag": "🇲🇦"
+  }
+}
